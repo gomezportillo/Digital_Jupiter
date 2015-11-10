@@ -1,0 +1,10 @@
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.Resources.resources
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.vbproj.GenerateResource.Cache
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.Interfaz.resources
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.exe.config
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.exe
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.pdb
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\bin\Debug\MonolithicAgenda.xml
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.exe
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.xml
+C:\Users\pedroma\Documents\Visual Studio 2013\Projects\MonolithicAgenda\MonolithicAgenda\obj\Debug\MonolithicAgenda.pdb
