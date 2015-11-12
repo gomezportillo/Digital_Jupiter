@@ -1,5 +1,5 @@
 # Digital Jupiter
-Monolithic Contact List
+*Monolithic Contact List*
 
 This theory exercise is mainly based on the E.01.02.01.01, in which we will be developing a monolithic contact list with slight differences resulting from our design. 
 
