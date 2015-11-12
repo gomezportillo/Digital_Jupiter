@@ -5,6 +5,6 @@ This theory exercise is mainly based on the E.01.02.01.01, in which we will be d
 
 This exercise will be based on the unified process development, UPD, and we will be using a multilayered architecture software development (presentation, domain and persistence).
 
-Julio César Vivero Abril
-Diego Molero Marín
-Pedro-Manuel Gómez-Portillo López
+*Julio César Vivero Abril*
+*Diego Molero Marín*
+*Pedro-Manuel Gómez-Portillo López*
